@@ -10,7 +10,7 @@ redirect_from:
 Li-Li Ye is a Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~ylai1/)'s research group at [Arizona State University](https://www.asu.edu/). L.-L. Ye's current research interests are applying machine learning in quantum control, quantum information, and quantum many-body systems. In addition, L.-Li. Ye explored quantum transport and Riemannian geometry on relativistic quantum chaos with Dirac materials.
 
 # Recent News
-======
+
 * June, 2024. paper entitled "[Entanglement engineering of optomechanical systems by reinforcement learning](https://arxiv.org/abs/2406.04550)" uploaded to arXiv.
 * Aug., 2024, paper entitled "[Experimental scheme for determining the Berry phase in two-dimensional quantum materials with a flat band](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.075108)" published in Physical Review B.
 * Sep., 2024, paper entitled "[Deep-learning design of graphene metasurfaces for quantum control and Dirac electron holography](https://pubs.aip.org/aip/aml/article/2/3/036105/3307404/Deep-learning-design-of-electronic-metasurfaces-in)" published in APL Machine learning.
@@ -18,11 +18,11 @@ Li-Li Ye is a Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~
 * April 4, 2023. Paper entitled "[Irregular Bloch-Zener oscillations in two-dimensional flat-band Dirac materials](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.165422)" published in Physical Review B.
 
 # Services
-======
+
 * Journal Reviewer: Physical Review B, and Physical Review A.
 
 # Contact Information
-======
+
 Li-Li Ye
 
 School of Electrical, Computer and Energy Engineering
