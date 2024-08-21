@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Entanglement engineering of optomechanical systems by reinforcement learning"
+excerpt: "Entanglement is fundamental to quantum information science and technology, yet controlling and manipulating entanglement -- so-called entanglement engineering -- for arbitrary quantum systems remains a formidable challenge. There are two difficulties: the fragility of quantum entanglement and its experimental characterization. We develop a model-free deep reinforcement-learning (RL) approach to entanglement engineering, in which feedback control together with weak continuous measurement and partial state observation is exploited to generate and maintain desired entanglement. We employ quantum optomechanical systems with linear or nonlinear photon-phonon interactions to demonstrate the workings of our machine-learning-based entanglement engineering protocol. In particular, the RL agent sequentially interacts with one or multiple parallel quantum optomechanical environments, collects trajectories, and updates the policy to maximize the accumulated reward to create and stabilize quantum entanglement over an arbitrary amount of time. The machine-learning-based model-free control principle is applicable to the entanglement engineering of experimental quantum systems in general. 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
