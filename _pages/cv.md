@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electric Engineering, Arizona State University, Tempe, US, 2026 (expected)
+* B.S. in Theoretical Physics, Lanzhou University, Lanzhou, China, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021 - Summer 2026 (expected): Research Assistant
+  * Arizona State University
+  * Duties included: Research 
+  * Supervisor: Professor Ying-Cheng Lai
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages/ soft skills: Qiskit, Qutip, Matlab, Python, C, Mathematica, Tensorflow, Keras, LaTex
+* Machine learning skills: Reinforcement learning, Convolutional Neural Network, Hamiltonian Neural Network, and Reservoir Computing projects
+* Quantum algorithm skills: Quantum excellence in 2023 Qiskit summer school of IBM and the conference paper about variational quantum algorithm
+* International conference: 2023 APS 4 Corners Meeting, and 2024 APS March Meeting (submitted)
+* Coursework: Reinforcement learning in robotics, Topics in Reinforcement Learning, Quantum Information and Quantum Computing, Quantum Optics and Quantum Information, Statistical Machine Learning: Theory to Practice, Mathematical Foundations of ML, and so on
 
 Publications
 ======
