@@ -21,7 +21,7 @@ repository               : "liliyequantum/liliyequantum.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "liliye.JPG"
+  avatar           : "./files/liliye.JPG"
   name             : "Lily"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Arizona State University"
