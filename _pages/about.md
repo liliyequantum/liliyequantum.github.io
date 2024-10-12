@@ -34,5 +34,5 @@ Tempe, Arizona 85281
 
 Email: liliye@asu.edu
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=axB3wjOERO9dieJzLTHeSOnxYLmh79s4pT5K5hTEskg&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=axB3wjOERO9dieJzLTHeSOnxYLmh79s4pT5K5hTEskg'></script>
 
