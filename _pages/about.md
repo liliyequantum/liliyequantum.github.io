@@ -20,7 +20,7 @@ Li-Li Ye is a Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~
 
 # Services
 
-* Journal Reviewer: Physical Review B, and Physical Review A.
+* Journal Reviewer: Physical Review B, Physical Review A, and Annals of Physics.
 
 # Contact Information
 
