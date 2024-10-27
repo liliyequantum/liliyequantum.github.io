@@ -8,7 +8,7 @@ date: 2022-08-12
 venue: 'Phys. Rev. A 106, 022207 (2022) '
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.022207' 
-citation: Ye, L. L., Han, C. D., Huang, L., & Lai, Y. C. (2022). Geometry-induced wave-function collapse. Physical Review A, 106(2), 022207.
+citation: 'Ye, L. L., Han, C. D., Huang, L., & Lai, Y. C. (2022). Geometry-induced wave-function collapse. Physical Review A, 106(2), 022207.'
  022207 (2022).'
 ---
 
