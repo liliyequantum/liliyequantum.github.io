@@ -50,4 +50,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* A chair volunteer for 2023 APS Four Corner Section, in Condensed Matter and Materials I.
+* Review journals experience: Nature Commun., PRX quantum, Phys. Review. A, Phys. Review. B, Ann. Phys
