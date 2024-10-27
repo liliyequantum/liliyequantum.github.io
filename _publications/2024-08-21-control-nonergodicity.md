@@ -1,6 +1,6 @@
 ---
 title: "Controlling nonergodicity in quantum many-body systems by reinforcement learning"
-collection: publications
+collection: preprint
 category: manuscripts
 permalink: /publication/2024-08-21-control-nonergodicity
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
