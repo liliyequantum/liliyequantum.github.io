@@ -6,7 +6,7 @@ permalink: /publication/2023-12-04-spindependent-edge
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2023-12-04
 venue: 'Physical Review B, 108(23), 235404.'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.235404)'
+paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.235404'
 citation: 'Ye, L. L., Han, C. D., & Lai, Y. C. (2023). Spin-dependent edge states in two-dimensional Dirac materials with a flat band. Physical Review B, 108(23), 235404.'
 ---
 
