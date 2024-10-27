@@ -3,7 +3,7 @@ title: "Geometry-induced wave-function collapse"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-8-12-Geometry-induced wave-function collapse
-excerpt: 
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022-08-12
 venue: 'Phys. Rev. A 106, 022207 (2022)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
