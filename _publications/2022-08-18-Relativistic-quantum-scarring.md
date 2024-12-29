@@ -2,7 +2,7 @@
 title: "Relativistic quantum scarring, spin-induced phase, and quantization in a symmetric Dirac billiard system2"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-08-18-Relativistic quantum scarring
+permalink: /publication/2022-08-18-Relativistic-quantum-scarring
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-08-18
 venue: 'Journal of Physics A: Mathematical and Theoretical, 55(37), 374003'
