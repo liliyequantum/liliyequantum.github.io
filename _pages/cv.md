@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Electric Engineering, Arizona State University, Tempe, US, 2026 (expected)
-* M.S. in Electric Engineering, Arizona State University, Tempe, US, 2023
 * B.S. in Theoretical Physics, Lanzhou University, Lanzhou, China, 2020
 
 Work experience
