@@ -20,7 +20,7 @@
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-html { scroll-behavior: smooth; font-size: 19px; }
+html { scroll-behavior: smooth; font-size: 25px; }
 
 body {
   background: var(--bg);
